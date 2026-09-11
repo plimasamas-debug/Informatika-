@@ -1,0 +1,6 @@
+{
+  "name": "Perangkat Pembelajaran Informatika Kelas XII Bab 1",
+  "description": "Perangkat pembelajaran lengkap Informatika Kelas XII Semester 1 Bab 1 mencakup rangkuman materi mendalam, modul lab simulasi interaktif, dan evaluasi 10 soal pilihan ganda HOTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
